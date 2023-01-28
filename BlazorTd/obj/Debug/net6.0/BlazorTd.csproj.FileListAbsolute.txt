@@ -1,0 +1,59 @@
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/bin/Debug/net6.0/appsettings.Development.json
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/bin/Debug/net6.0/appsettings.json
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/bin/Debug/net6.0/BlazorTd.staticwebassets.runtime.json
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/bin/Debug/net6.0/BlazorTd
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/bin/Debug/net6.0/BlazorTd.deps.json
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/bin/Debug/net6.0/BlazorTd.runtimeconfig.json
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/bin/Debug/net6.0/BlazorTd.dll
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/bin/Debug/net6.0/BlazorTd.pdb
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/obj/Debug/net6.0/BlazorTd.csproj.AssemblyReference.cache
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/obj/Debug/net6.0/BlazorTd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/obj/Debug/net6.0/BlazorTd.AssemblyInfoInputs.cache
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/obj/Debug/net6.0/BlazorTd.AssemblyInfo.cs
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/obj/Debug/net6.0/BlazorTd.csproj.CoreCompileInputs.cache
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/obj/Debug/net6.0/BlazorTd.MvcApplicationPartsAssemblyInfo.cache
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/obj/Debug/net6.0/BlazorTd.RazorAssemblyInfo.cache
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/obj/Debug/net6.0/BlazorTd.RazorAssemblyInfo.cs
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/obj/Debug/net6.0/staticwebassets.build.json
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/obj/Debug/net6.0/staticwebassets.development.json
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/obj/Debug/net6.0/scopedcss/bundle/BlazorTd.styles.css
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/obj/Debug/net6.0/scopedcss/projectbundle/BlazorTd.bundle.scp.css
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/obj/Debug/net6.0/BlazorTd.dll
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/obj/Debug/net6.0/refint/BlazorTd.dll
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/obj/Debug/net6.0/BlazorTd.pdb
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/obj/Debug/net6.0/BlazorTd.genruntimeconfig.cache
+/Users/tomasz/Documents/Learning/Studies/IV sem/APBD/Tutorials/2022_06_14 APBD 11/tutorial-11-TDolmatStudent/BlazorTd/BlazorTd/obj/Debug/net6.0/ref/BlazorTd.dll
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\bin\Debug\net6.0\appsettings.json
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\bin\Debug\net6.0\BlazorTd.staticwebassets.runtime.json
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\bin\Debug\net6.0\BlazorTd.exe
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\bin\Debug\net6.0\BlazorTd.deps.json
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\bin\Debug\net6.0\BlazorTd.runtimeconfig.json
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\bin\Debug\net6.0\BlazorTd.dll
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\bin\Debug\net6.0\BlazorTd.pdb
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\BlazorTd.csproj.AssemblyReference.cache
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\BlazorTd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\BlazorTd.AssemblyInfoInputs.cache
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\BlazorTd.AssemblyInfo.cs
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\BlazorTd.csproj.CoreCompileInputs.cache
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\BlazorTd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\BlazorTd.RazorAssemblyInfo.cache
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\BlazorTd.RazorAssemblyInfo.cs
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\staticwebassets\msbuild.BlazorTd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorTd.props
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorTd.props
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorTd.props
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\scopedcss\bundle\BlazorTd.styles.css
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\scopedcss\projectbundle\BlazorTd.bundle.scp.css
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\BlazorTd.dll
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\refint\BlazorTd.dll
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\BlazorTd.pdb
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\BlazorTd.genruntimeconfig.cache
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw11-s15348-Blazor\BlazorTd\obj\Debug\net6.0\ref\BlazorTd.dll

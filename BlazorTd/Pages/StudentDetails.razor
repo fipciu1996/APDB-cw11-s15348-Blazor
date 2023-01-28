@@ -1,0 +1,29 @@
+﻿@page "/students/{FirstName}/{LastName}/{Birthdate}/{Studies}"
+
+<h3>Student's details</h3>
+<p>
+    <b>First Name:</b> @FirstName
+</p>
+<p>
+    <b>Last Name:</b> @LastName
+</p>
+<p>
+    <b>Birthdate:</b> @Birthdate
+</p>
+<p>
+    <b>Studies:</b> @Studies
+</p>
+
+@code {
+    [Parameter]
+    public string FirstName { get; set; }
+
+    [Parameter]
+    public string LastName { get; set; }
+
+    [Parameter]
+    public string Birthdate { get; set; }
+
+    [Parameter]
+    public string Studies { get; set; }
+}
